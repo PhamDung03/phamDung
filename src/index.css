@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: 'Roboto'; 
+  /* background-image: url(/src/pages/home/img/img1.jpg); */
+  background: linear-gradient(to right, #e2e2e2 , #c9d6ff);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --app-color: #4682B4;
+}
+
+.MuiTypography-root.from_title{
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+}
+
